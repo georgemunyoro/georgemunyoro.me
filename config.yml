@@ -1,0 +1,29 @@
+baseURL: "georgemunyoro.me"
+title: George Munyoro
+paginate: 8
+theme: hugo-PaperMod
+enableInlineShortcodes: true
+enableRobotsTXT: true
+params:
+    profileMode:
+        enabled: true
+        title: "Fullstack Web Developer" # optional default will be site title
+        imageUrl: "https://www.pngitem.com/pimgs/m/464-4644556_full-stack-icon-png-transparent-png.png" # optional
+        imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Archive
+              url: "/archive"
+            - name: Github
+              url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "github"
+          url: "<link>"
+        - name: "twitter"
+          url: "<link2>"
+        - name: "linkedin"
+          url: "<link2>"
+        - name: "stackoverflow"
+          url: "<link2>"
