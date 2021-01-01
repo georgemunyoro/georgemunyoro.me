@@ -1,9 +1,20 @@
-baseURL: "https://happy-ramanujan-1be0c3.netlify.app/"
+baseURL: "https://georgemunyoro.me"
 title: George Munyoro
 paginate: 8
 theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
+menu:
+    main:
+        - name: Blog 
+          url: blog/
+          weight: 1
+        - name: About
+          url: about/
+          weight: 3
+        - name: Portfolio
+          url: portfolio/
+          weight: 2
 params:
     profileMode:
         enabled: true
@@ -13,17 +24,17 @@ params:
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
         buttons:
-            - name: Archive
-              url: "/archive"
+            - name: Blog
+              url: "/blog"
             - name: Github
-              url: "https://github.com/"
+              url: "https://github.com/georgemunyoro"
 
     socialIcons: # optional
         - name: "github"
-          url: "<link>"
+          url: "https://github.com/georgemunyoro"
         - name: "twitter"
-          url: "<link2>"
+          url: "https://twitter.com/george_munyoro"
         - name: "linkedin"
-          url: "<link2>"
+          url: "https://www.linkedin.com/in/georgemunyoro"
         - name: "stackoverflow"
-          url: "<link2>"
+          url: "https://stackoverflow.com/users/11886597/george-munyoro"
