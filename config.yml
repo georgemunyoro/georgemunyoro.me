@@ -18,11 +18,11 @@ menu:
 params:
     profileMode:
         enabled: true
-        title: "Fullstack Web Developer" # optional default will be site title
-        imageUrl: "https://www.pngitem.com/pimgs/m/464-4644556_full-stack-icon-png-transparent-png.png" # optional
-        imageTitle: "<title of image as alt>" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        title: "Fullstack Developer"
+        imageUrl: "https://www.pngitem.com/pimgs/m/464-4644556_full-stack-icon-png-transparent-png.png"
+        imageTitle: "<title of image as alt>"
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Blog
               url: "/blog"
