@@ -9,12 +9,12 @@ menu:
         - name: Blog 
           url: blog/
           weight: 1
-        - name: About
-          url: about/
-          weight: 3
-        - name: Portfolio
-          url: portfolio/
-          weight: 2
+        # - name: About
+        #   url: about/
+        #   weight: 3
+        # - name: Portfolio
+        #   url: portfolio/
+        #   weight: 2
 params:
     profileMode:
         enabled: true
