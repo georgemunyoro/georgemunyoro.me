@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Workstation Setup"
 date: 2022-05-19T18:05:07+02:00
-draft: true
+draft: false
 ---
 **Why I run 3 operating systems at the same time**
 
