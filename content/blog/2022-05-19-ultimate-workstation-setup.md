@@ -60,3 +60,28 @@ I run Linux for both work and play. It’s my primary work environment on my des
 
 I’ve found compatibility to be the greatest comfort and advantage afforded to me by my almighty setup. I don’t need to ask a friend who has a Mac for something or spend hours searching for an alternative to some random software because it doesn’t target my OS of choice. My setup embodies my desire to not have to chose, to have everything, because I can.
 
+
+```text
+There was once a programmer who was attached to the court of the warlord of Wu.
+
+The warlord asked the programmer: "Which is easier to design: an accounting package
+or an operating system?"
+
+"An operating system," replied the programmer.
+
+The warlord uttered an exclamation of disbelief. "Surely an accounting package
+is trivial next to the complexity of an operating system," he said.
+
+"Not so," said the programmer,
+"When designing an accounting package, the programmer operates as a mediator
+between people having different ideas: how it must operate, how its reports
+must appear, and how it must conform to the tax laws. By contrast, an operating
+system is not limited by outside appearances. When designing an operating system,
+the programmer seeks the simplest harmony between machine and ideas. This is
+why an operating system is easier to design."
+
+The warlord of Wu nodded and smiled. "That is all good and well, but which is easier
+to debug?"
+
+The programmer made no reply.
+```
